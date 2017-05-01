@@ -1,0 +1,39 @@
+#data
+*.xls
+*.xlsx
+*.sav
+data/
+# Word temporary
+~$*.doc
+~$*.docx
+
+# Excel temporary
+~$*.xls
+~$*.xlsx
+
+
+
+#compiled
+*.pyc
+__pycache__/
+build/
+dist/
+
+#docs not ready
+docs/
+
+#egg
+*.egg-info/
+
+#env
+.env/
+.auto_VE
+
+#sublime
+*.sublime-project
+*.sublime-workspace
+
+#log
+*.log
+
+reports/
